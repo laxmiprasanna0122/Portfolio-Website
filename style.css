@@ -1,0 +1,55 @@
+#main-container {
+    margin: 20px;
+}
+    
+
+.navbar-brand{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:normal;
+}
+
+.clean-up{
+    clear:both;
+}
+/* 
+.buttons {
+
+    position:sticky;
+    top: 70%;
+    color: black;
+}
+
+.btn1 {
+
+    background-color: black;
+    color: white;
+    padding: 25px 25px;
+    border:2px red solid;
+    margin-top: 70%;
+
+}
+.btn2 {
+
+    background-color: black;
+    color: white;
+    padding: 25px 25px;
+    border:2px red solid;
+    margin-top: 80%;
+}
+.btn3 {
+
+    background-color: black;
+    color: white;
+    padding: 25px 25px;
+    border:2px red solid;
+    margin-top: 90%;
+}
+.btn4 {
+
+    background-color: black;
+    color: white;
+    padding: 25px 25px;
+    border:2px red solid;
+    margin-top: 95%;
+} */
